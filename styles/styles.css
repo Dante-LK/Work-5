@@ -1,0 +1,124 @@
+body{
+  padding-top: 21px;
+  background-color: rgb(239, 236, 236);
+}
+
+header{
+  margin-bottom: 42px;
+  padding-left: 102px;
+  background-color: whitesmoke;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+h4{
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 35px;
+  font-size: 11px;
+  font-weight: 700;
+  font-family: "Roboto", sans-serif;
+}
+
+.icon{
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 25px;
+}
+
+.mainDiv{
+  position: relative;
+  margin-top: 32px;
+  margin-left: 138px;
+  margin-bottom: 36px;
+  width: 100%;
+}
+
+h1{
+  font-family: "Roboto", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.container{
+  display: inline-block;
+  margin-left: 40px;
+  margin-bottom: 57px;
+  position: relative;
+  width: 362px;
+  height: 357px;
+  margin-top: 27px;
+  border-color: black;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: "Roboto", sans-serif;
+  color: #FFFFFF;
+}
+
+
+.containerP{
+  font-size: 10px;
+  font-weight: 700;
+  font-family: "Roboto", sans-serif;
+  padding: 68px 87px 41px 37px;
+  color: #8A8787;
+}
+
+
+.containerNow{
+  width: 758px;
+  display: inline-block;
+}
+
+.containerSmallNow{
+  display: inline-block;
+  width: 362px;
+}
+
+.nowImg{
+  margin-bottom: 98px;
+  margin-left: 45px;
+}
+
+footer{
+  background-color: #243043;
+  width: 1440px;
+  height: 201px;
+  padding: 59px 137px 44px 137px;
+}
+.footerClass{
+  margin-right: 96px;
+  display: inline-block;
+}
+
+h6{
+  font-size: 12px;
+  font-weight: 700;
+  font-family: "Roboto", sans-serif;
+  color: #818687;
+  margin-bottom: 14px;
+}
+
+h5{
+  font-size: 12px;
+  font-weight: 400;
+  color: white;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 416px;
+}
+
+.ICON{
+  vertical-align: top;
+  display: inline-block;
+}
