@@ -42,6 +42,8 @@ h1{
   font-weight: 700;
 }
 
+
+
 .container{
   display: inline-block;
   margin-left: 40px;
@@ -78,11 +80,13 @@ h1{
 .containerNow{
   width: 758px;
   display: inline-block;
+  vertical-align: top;
 }
 
 .containerSmallNow{
   display: inline-block;
   width: 362px;
+  vertical-align: top;
 }
 
 .nowImg{
